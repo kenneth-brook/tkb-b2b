@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header, footer {
+  background: #222;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+nav a {
+  margin: 0 1rem;
+  color: #ccc;
+  text-decoration: none;
+}
+.hero {
+  padding: 3rem;
+  text-align: center;
+  background: #eee;
+}
+.cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #0073e6;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}

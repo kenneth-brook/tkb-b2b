@@ -5,12 +5,17 @@
     <meta charset="UTF-8">
     <title>TKB Custom Design | B2B Print & Embroidery</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/styles.css">
 </head>
 
 <body>
-    <header>
-        <h2><a href="/">TKB Custom Design</a></h2>
+    <header class="site-header">
+        <div class="logo-wrap">
+            <div class="logo-container">
+                <img src="/assets/logo.png" alt="TKB Custom Design Logo" class="logo">
+            </div>
+            <h1>TKB Custom Design</h1>
+        </div>
         <nav>
             <a href="/">Home</a>
             <a href="/contact.php">Contact</a>

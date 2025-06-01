@@ -30,3 +30,45 @@ nav a {
   text-decoration: none;
   border-radius: 6px;
 }
+
+.site-header {
+  background: linear-gradient(to right, #1ac2c2, #312366);
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.logo-wrap {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo-container {
+  background: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  padding: 5px;
+  width: 125px;
+  height: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 1rem;
+  font-weight: bold;
+}

@@ -72,3 +72,76 @@ nav a {
   margin-left: 1rem;
   font-weight: bold;
 }
+
+:root {
+  --teal: #1ac2c2;
+  --indigo: #312366;
+  --lavender: #998bc9;
+  --coral: #ff6b6b;
+  --cream: #fdfcf9;
+}
+
+/* Layout Reset */
+body {
+  background-color: var(--cream);
+  color: var(--indigo);
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background: linear-gradient(to right, var(--teal), var(--indigo));
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.cta-button {
+  background-color: var(--coral);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.cta-button:hover {
+  background-color: var(--teal);
+}
+
+.section {
+  padding: 3rem 2rem;
+}
+
+.section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--indigo);
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.card {
+  background: white;
+  border: 2px solid var(--lavender);
+  padding: 1rem;
+  border-radius: 8px;
+  width: 250px;
+  text-align: center;
+}
+
+.gallery {
+  background-color: var(--lavender);
+  color: white;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}

@@ -16,8 +16,5 @@
             </div>
             <h1>TKB Custom Design</h1>
         </div>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/contact.php">Contact</a>
-        </nav>
+        <?php include 'includes/nav.php'; ?>
     </header>

@@ -20,42 +20,67 @@
 
         <div class="tab-content-container">
             <div class="tab-content active" id="overview">
-                <img src="images/overview.jpg" alt="Overview image">
-                <p>From logos on polos to full-color artwork on team shirts, TKB is your all-in-one apparel solution
-                    hub.</p>
+                <p><b>TKB Custom Design</b> is a full-service print and embroidery partner serving schools, businesses,
+                    teams, and organizations across Southeast Georgia and beyond. We specialize in custom-branded gear —
+                    including embroidered uniforms, vinyl signage, full-color transfers, decals, tap tags, and
+                    sublimated promotional items.</p>
+
+                <p>Our in-house production gives us the flexibility to handle everything from short-run jobs to bulk
+                    orders — with fast turnaround and consistent quality. Whether you're gearing up a school district,
+                    outfitting a crew, or prepping for an event, we deliver the polish your brand deserves.</p>
+
+                <p>TKB is trusted by educational programs in Long County and small businesses throughout Glynn County,
+                    and we’re proud to help local organizations look professional, unified, and ready to represent.</p>
+
             </div>
             <div class="tab-content" id="embroidery">
-                <img src="images/embroidery.jpg" alt="Embroidery example">
-                <p>High-detail, multi-thread embroidery for hats, uniforms, and custom monograms — stitched with care.
-                </p>
+                <p>Professional, multi-thread embroidery perfect for staff polos, hats, jackets, and monogrammed
+                    uniforms — stitched in-house for precision, consistency, and durability.</p>
             </div>
             <div class="tab-content" id="vinyl">
-                <img src="images/vinyl.jpg" alt="Vinyl transfer">
-                <p>Precision cut vinyl and heat-applied transfers for bold logos and vibrant single-color graphics.</p>
+                <p>Our vinyl services cover more than just apparel. We offer precision-cut heat transfers <em>and</em>
+                    adhesive vinyl for custom decals, window graphics, hard hats, signage, and equipment branding.
+                    Whether it's pressed onto fabric or stuck to a surface, we deliver clean cuts, bold color, and
+                    long-lasting results.</p>
+
             </div>
             <div class="tab-content" id="sublimation">
-                <img src="images/sublimation.jpg" alt="Sublimated shirt">
-                <p>Edge-to-edge, full-color sublimation prints that bond directly to polyester — zero peel, zero fade.
-                </p>
+                <p>We specialize in sublimation printing on hard-surface substrates like mugs, tumblers, metal signage,
+                    ornaments, and more — delivering full-color, permanent designs that won't peel, crack, or fade.
+                    While sublimation apparel is available upon request, most of our clients prefer giftable and
+                    promotional products where sublimation truly shines.</p>
             </div>
             <div class="tab-content" id="dtf">
-                <img src="images/dtf.jpg" alt="DTF transfer">
-                <p>Color-rich Direct-to-Film (DTF) transfers — applied in-house for lasting flexibility and comfort.</p>
+                <p>Flexible, high-resolution color prints pressed onto garments for full-color detail, even on dark
+                    fabrics — great for custom art, team branding, and short-run collections.</p>
             </div>
             <div class="tab-content" id="screen">
-                <img src="images/screen.jpg" alt="Silkscreen transfer">
-                <p>Durable screen print transfers for bulk jobs — perfect for schools, teams, and work crews.</p>
+                <p>Durable, vendor-provided screen transfers used for large orders with limited color — a cost-effective
+                    solution for schools, work crews, and bulk spirit wear.</p>
             </div>
         </div>
     </section>
 
-    <section class="section gallery">
-        <h2>Recent Projects</h2>
-        <div class="card-grid">
-            <img src="/assets/images/gallery1.jpg" alt="Custom Hat" />
-            <img src="/assets/images/gallery2.jpg" alt="Printed Shirt" />
-            <img src="/assets/images/gallery3.jpg" alt="Team Jerseys" />
-        </div>
+    <section class="section clients">
+        <h2>Organizations We've Outfitted</h2>
+        <p style="text-align: center; max-width: 700px; margin: 0 auto;">
+            From team spirit wear to district-wide initiatives, TKB is trusted to deliver quality and consistency for
+            schools and organizations.
+        </p>
+        <ul class="client-list" style="list-style: none; text-align: center; padding: 0; margin-top: 1.5rem;">
+            <li>Long County High School Cheerleading</li>
+            <li>Smiley Elementary School</li>
+            <li>Walker Elementary School</li>
+            <li>Long County Sunshine Club <span style="color: var(--coral); font-weight: bold;">(2024 & 2025)</span>
+            </li>
+            <li>District-wide Staff Apparel <span style="color: var(--lavender); font-style: italic;">(In
+                    Progress)</span></li>
+        </ul>
+        <p style="text-align: center; margin-top: 2rem;">
+            Our portfolio is growing fast — photos coming soon!
+        </p>
+        <p style="text-align: center; font-style: italic; opacity: 0.85;">Proudly rooted in Southeast Georgia, built to
+            serve clients anywhere.</p>
     </section>
 </main>
 
